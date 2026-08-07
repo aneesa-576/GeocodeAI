@@ -1,0 +1,35 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+
+# Test and coverage
+.pytest_cache/
+.coverage
+
+# VSCode
+.vscode/
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# JetBrains
+.idea/
